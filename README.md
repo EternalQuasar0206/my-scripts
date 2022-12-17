@@ -1,3 +1,3 @@
 # ✨ my-scripts
 
-Personal archive of utility scripts.
+Personal archive of utility scripts
