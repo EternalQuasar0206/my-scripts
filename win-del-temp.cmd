@@ -1,3 +1,3 @@
-:: Windows - Delete %temp% folder content
+:: Batchscript - Delete %temp% folder content
 
 del %TEMP%\*.* /f /s /q
